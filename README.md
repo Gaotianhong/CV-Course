@@ -6,7 +6,7 @@
 
 见 `image_stitching/Panorama-two.py`
 
-<img width="374" alt="image" src="https://github.com/Gaotianhong/CV-Course/assets/79080003/16089a4e-2bd4-430f-9830-de4b3b2d424b">
+<img width="520" alt="image" src="https://github.com/Gaotianhong/CV-Course/assets/79080003/16089a4e-2bd4-430f-9830-de4b3b2d424b">
 
 * 多视图拼接
 
